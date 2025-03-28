@@ -1,6 +1,6 @@
 Welcome to NeuroNest !
 
-Author: Ahmed Al-Aqel
+Author: 
 28-03-2025
 
 Facebook: Ahmed@Facbook.com
