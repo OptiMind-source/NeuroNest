@@ -1,0 +1,44 @@
+﻿  clsCoursesMangamentScreen.cpp
+C:\Users\lenovo\Desktop\NeuroNest\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCoursesMangamentScreen.cpp')
+  
+C:\Users\lenovo\Desktop\NeuroNest\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCoursesMangamentScreen.cpp')
+  
+C:\Users\lenovo\Desktop\NeuroNest\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCoursesMangamentScreen.cpp')
+  
+C:\Users\lenovo\Desktop\NeuroNest\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCoursesMangamentScreen.cpp')
+  
+C:\Users\lenovo\Desktop\NeuroNest\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCoursesMangamentScreen.cpp')
+  
+C:\Users\lenovo\Desktop\NeuroNest\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCoursesMangamentScreen.cpp')
+  
+  NeuroNest.cpp
+C:\Users\lenovo\Desktop\NeuroNest\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NeuroNest.cpp')
+  
+C:\Users\lenovo\Desktop\NeuroNest\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NeuroNest.cpp')
+  
+C:\Users\lenovo\Desktop\NeuroNest\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NeuroNest.cpp')
+  
+C:\Users\lenovo\Desktop\NeuroNest\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NeuroNest.cpp')
+  
+C:\Users\lenovo\Desktop\NeuroNest\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NeuroNest.cpp')
+  
+C:\Users\lenovo\Desktop\NeuroNest\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'NeuroNest.cpp')
+  
+C:\Users\lenovo\Desktop\NeuroNest\clsManagmentScreen.h(46,11): warning C4129: 'T': unrecognized character escape sequence
+  (compiling source file 'NeuroNest.cpp')
+  
+  Generating Code...
+C:\Users\lenovo\Desktop\NeuroNest\clsStudent.h(286,1): warning C4715: 'clsStudent::Save': not all control paths return a value
+  NeuroNest.vcxproj -> C:\Users\lenovo\Desktop\NeuroNest\x64\Debug\NeuroNest.exe

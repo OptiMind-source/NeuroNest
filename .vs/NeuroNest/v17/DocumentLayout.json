@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsAddCourseScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|solutionrelative:clsAddCourseScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsCourse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|solutionrelative:clsCourse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsStudent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|solutionrelative:clsStudent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsCoursesMangamentScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|solutionrelative:clsCoursesMangamentScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsManagmentScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|solutionrelative:clsManagmentScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsMainMenuScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|solutionrelative:clsMainMenuScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsStudentManagmentScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|solutionrelative:clsStudentManagmentScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|C:\\Users\\lenovo\\Desktop\\NeuroNest\\NeuroNest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C597BB7-DE47-488C-B8EE-E0E2B1F0377C}|NeuroNest.vcxproj|solutionrelative:NeuroNest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 359,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsAddCourseScreen.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsAddCourseScreen.h",
+              "RelativeDocumentMoniker": "clsAddCourseScreen.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsAddCourseScreen.h",
+              "RelativeToolTip": "clsAddCourseScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T01:59:00.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsStudent.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsStudent.h",
+              "RelativeDocumentMoniker": "clsStudent.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsStudent.h",
+              "RelativeToolTip": "clsStudent.h",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAAD0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T01:19:17.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsCourse.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsCourse.h",
+              "RelativeDocumentMoniker": "clsCourse.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsCourse.h",
+              "RelativeToolTip": "clsCourse.h",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAKAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T01:14:17.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsManagmentScreen.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsManagmentScreen.h",
+              "RelativeDocumentMoniker": "clsManagmentScreen.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsManagmentScreen.h",
+              "RelativeToolTip": "clsManagmentScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T01:11:55.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsMainMenuScreen.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsMainMenuScreen.h",
+              "RelativeDocumentMoniker": "clsMainMenuScreen.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsMainMenuScreen.h",
+              "RelativeToolTip": "clsMainMenuScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T01:11:46.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsStudentManagmentScreen.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsStudentManagmentScreen.h",
+              "RelativeDocumentMoniker": "clsStudentManagmentScreen.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsStudentManagmentScreen.h",
+              "RelativeToolTip": "clsStudentManagmentScreen.h",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T01:06:06.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsCoursesMangamentScreen.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsCoursesMangamentScreen.h",
+              "RelativeDocumentMoniker": "clsCoursesMangamentScreen.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\clsCoursesMangamentScreen.h",
+              "RelativeToolTip": "clsCoursesMangamentScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T01:05:55.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NeuroNest.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\NeuroNest.cpp",
+              "RelativeDocumentMoniker": "NeuroNest.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\NeuroNest\\NeuroNest.cpp",
+              "RelativeToolTip": "NeuroNest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T01:48:53.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 41,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
